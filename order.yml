@@ -1,7 +1,6 @@
 server:
   port: 1800
 spring: 
-   profiles: dev
    application: 
     name: microservicecloud-config-dept-client
  
